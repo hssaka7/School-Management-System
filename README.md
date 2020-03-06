@@ -7,5 +7,6 @@ This is an open source School Management System that can be self hosted.
 - Flie Sharing Sytem
 - Chat room/bot
 - Addendence System
-- and many more to come
 - online bill payment service
+- and many more to come
+
