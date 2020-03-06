@@ -8,3 +8,4 @@ This is an open source School Management System that can be self hosted.
 - Chat room/bot
 - Addendence System
 - and many more to come
+- online bill payment service
